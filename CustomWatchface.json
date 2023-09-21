@@ -3,7 +3,7 @@
         "name": "TVE Digital G-Watch",
         "author": "Philoul,Theod00r",
         "created_at": "19\/09\/2023",
-        "author_version": "1.3",
+        "author_version": "1.4",
         "cwf_version": "1.0",
         "comment": "Digital watchface G-Watch style"
     },
@@ -92,22 +92,23 @@
         "fontColor": "#BDBDBD"
     },
     "iob1": {
-        "width": 106,
-        "height": 33,
-        "topmargin": 190,
-        "leftmargin": 43,
+        "width": 80,
+        "height": 24,
+        "topmargin": 195,
+        "leftmargin": 58,
         "rotation": 0,
         "visibility": "visible",
         "textsize": 21,
         "gravity": "center",
         "font": "default",
         "fontStyle": "normal",
-        "fontColor": "#4080F6"
+		"background": "ic_bolus",
+        "fontColor": "#00000000"
     },
     "iob2": {
-        "width": 106,
+        "width": 110,
         "height": 33,
-        "topmargin": 215,
+        "topmargin": 220,
         "leftmargin": 40,
         "rotation": 0,
         "visibility": "visible",
@@ -118,22 +119,22 @@
         "fontColor": "#64B5F6"
     },
     "cob1": {
-        "width": 106,
-        "height": 33,
-        "topmargin": 190,
-        "leftmargin": 251,
+        "width": 80,
+        "height": 24,
+        "topmargin": 195,
+        "leftmargin": 265,
         "rotation": 0,
         "visibility": "visible",
         "textsize": 21,
         "gravity": "center",
         "font": "default",
-        "fontStyle": "normal",
-        "fontColor": "#4080F6"
+		"background": "ic_carbs",
+        "fontColor": "#00000000"
     },
     "cob2": {
         "width": 106,
-        "height": 33,
-        "topmargin": 215,
+        "height": 35,
+        "topmargin": 220,
         "leftmargin": 251,
         "rotation": 0,
         "visibility": "visible",
@@ -198,8 +199,8 @@
     "basalRate": {
         "width": 106,
         "height": 33,
-        "topmargin": 242,
-        "leftmargin": 43,
+        "topmargin": 245,
+        "leftmargin": 45,
         "rotation": 0,
         "visibility": "visible",
         "textsize": 22,
@@ -211,8 +212,8 @@
     "bgi": {
         "width": 106,
         "height": 33,
-        "topmargin": 242,
-        "leftmargin": 251,
+        "topmargin": 245,
+        "leftmargin": 250,
         "rotation": 0,
         "visibility": "visible",
         "textsize": 22,
