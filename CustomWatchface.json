@@ -155,7 +155,7 @@
         "gravity": "center",
         "font": "default",
         "fontStyle": "bold",
-        "fontColor": "#BDBDBD"
+        "fontColor": "#64B5F6"
     },
     "avg_delta": {
         "width": 48,
@@ -168,7 +168,7 @@
         "gravity": "center",
         "font": "default",
         "fontStyle": "bold",
-        "fontColor": "#BDBDBD"
+        "fontColor": "#64B5F6"
     },
     "uploader_battery": {
         "width": 106,
@@ -302,10 +302,10 @@
         "fontColor": "#BDBDBD"
     },
     "day": {
-        "width": 72,
-        "height": 38,
-        "topmargin": 234,
-        "leftmargin": 164,
+        "width": 120,
+        "height": 100,
+        "topmargin": 94,
+        "leftmargin": 255,
         "rotation": 0,
         "visibility": "visible",
         "textsize": 26,
@@ -315,10 +315,10 @@
         "fontColor": "#BDBDBD"
     },
     "week_number": {
-        "width": 120,
-        "height": 100,
-        "topmargin": 94,
-        "leftmargin": 255,
+        "width": 72,
+        "height": 38,
+        "topmargin": 234,
+        "leftmargin": 164,
         "rotation": 0,
         "visibility": "visible",
         "textsize": 22,
@@ -328,17 +328,17 @@
         "fontColor": "#BDBDBD"
     },
     "month": {
-        "width": 0,
-        "height": 0,
-        "topmargin": 0,
-        "leftmargin": 0,
+        "width": 120,
+        "height": 100,
+        "topmargin": 94,
+        "leftmargin": 210,
         "rotation": 0,
-        "visibility": "gone",
-        "textsize": 24,
+        "visibility": "visible",
+        "textsize": 26,
         "gravity": "center",
         "font": "default",
-        "fontStyle": "bold",
-        "fontColor": "#FFFFFF"
+        "fontStyle": "normal",
+        "fontColor": "#BDBDBD"
     },
     "loop": {
         "width": 50,
