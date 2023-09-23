@@ -147,7 +147,7 @@
     "delta": {
         "width": 48,
         "height": 30,
-        "topmargin": 331,
+        "topmargin": 328,
         "leftmargin": 200,
         "rotation": 0,
         "visibility": "visible",
@@ -160,7 +160,7 @@
     "avg_delta": {
         "width": 48,
         "height": 30,
-        "topmargin": 331,
+        "topmargin": 328,
         "leftmargin": 152,
         "rotation": 0,
         "visibility": "visible",
@@ -311,7 +311,7 @@
         "textsize": 26,
         "gravity": "center",
         "font": "default",
-        "fontStyle": "bold",
+        "fontStyle": "normal",
         "fontColor": "#BDBDBD"
     },
     "week_number": {
